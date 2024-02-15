@@ -1,0 +1,55 @@
+Design Patterns:
+
+   are the reusable solutions to the common problems that are araise during the software design and develop phase.
+  
+  It will helps to collaborate with others easily and also understand problem easily
+  It helps to speed up the development and robust software can build
+  
+  types:
+  
+  1.Creational Design Patterns
+  2.Structural Design Patterns
+  3.Behavioral Design Patterns
+  
+  >> Crearional Design Patterns:
+   It abstract the instantiation process.They help in making system independent of how the object created,composed, and represnt. 
+   
+     >> Types of Creational Design Patterns
+	     1.SingleTon Method
+		 2.factory Method
+		 3.Abstract factory Method
+		 4.Builder Method
+		 5.Prototype Method
+		 6.object pool Method
+  
+ >>Structural Design Patterns:
+    Structural Design Patterns are concerned to how the classes and object composed to form large structure.
+	Structural Patterns use inheritance to compose the interfaces or implementations.
+	
+	>>Types of Structural Design Patterns
+	      1.Adapter Method 
+		  2.Bridge Method
+		  3.Decorator Method
+		  4.composite Method
+		  5.Facade Method
+		  6.Flyweight Method
+		  7.proxy Method
+		  8.private class data
+		  
+ >>Behavioral Design Patterns:
+    It concerned about the way of interactions between the objects.(Communication)
+	
+	>>Types of Behavioral Design Patterns
+	     1.chain of responsibility Method
+		 2.command Method
+		 3.Interpreter Method
+		 4.Iterator Method
+		 5.Mediator Method
+		 6.Memento Method
+		 7.Null object Method
+		 8.Observer Method
+		 9.State Method
+		 10.Strategy Method
+		 11.Templete Method
+		 12.Visitor Method
+     
